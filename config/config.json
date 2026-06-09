@@ -1,5 +1,5 @@
 {
-  "__parent": "./build.json"
+  "__parent": "./colors.json"
 , "app": {
     "name": "%{APP_NAME|cv}"
   , "version": "%{CODE_VERSION|0.3.1}"
